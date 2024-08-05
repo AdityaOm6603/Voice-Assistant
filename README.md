@@ -1,5 +1,15 @@
 ## John the voice assistant
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Libraries](#libraries)
+- [Operations](#operations)
+- [Future Enhancements](#future-enhancements)
+- [Conclusion](#Conclusion)
+
 ### Introduction
 The voice assistant script is a Python-based application designed to provide a variety of functionalities through voice commands. It leverages speech recognition and synthesis to interact with users, offering a range of features from setting alarms to retrieving stock prices and playing media. The assistant is designed to be both interactive and informative, making it a versatile tool for managing daily tasks and obtaining information.
 
@@ -26,6 +36,35 @@ Quiz Game: Engages users with a quiz game asking trivia questions.
 #### ->Additional Utilities
 Weather Information: Fetches current weather details for a specified city (although this feature has been disabled in the current version).
 Log Off: Logs off the user from the system upon request.
+
+### Installation
+1. **Clone the repository**:
+    ```sh
+    git clone https://github.com/yourusername/Voice-Assistant.git
+    cd Voice-Assistant
+    ```
+
+2. **Install Pygame**:
+    ```sh
+    pip install pygame
+    pip install request
+    pip install pyaudio
+    pip install SpeechRecognition
+    pip install pyttsx3
+    pip install pyjokes
+    pip install requests
+    pip install pywhatkit
+    pip install subprocess
+    pip install psutil
+    pip install webbrowser
+    pip install wikipedia
+    pip install yfinance
+    ```
+
+3. **Run the game**:
+    ```sh
+    python Voice_Assistant.py
+    ```
 
 ### Libraries
 os: Provides functions for interacting with the operating system, such as opening applications and logging off the user.
