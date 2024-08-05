@@ -68,18 +68,31 @@ Log Off: Logs off the user from the system upon request.
 
 ### Libraries
 os: Provides functions for interacting with the operating system, such as opening applications and logging off the user.
+
 pyttsx3: Enables text-to-speech capabilities for providing vocal responses.
+
 speech_recognition: Handles speech-to-text conversion for understanding user commands.
+
 pywhatkit: Facilitates interactions with YouTube, WhatsApp, and internet searches.
+
 yfinance: Fetches stock market data.
+
 pyjokes: Generates jokes for entertainment.
+
 webbrowser: Opens URLs in a web browser.
+
 datetime: Handles date and time operations.
+
 time: Manages time-related tasks such as setting alarms.
+
 wikipedia: Retrieves summaries from Wikipedia.
+
 requests: Makes HTTP requests to fetch data from web APIs.
+
 pygame: Manages audio playback for alarm sounds.
+
 psutil: Provides system and process utilities.
+
 platform: Retrieves system information.
 
 ### Operations
